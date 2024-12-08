@@ -1,0 +1,12 @@
+/* This file is for future CSS customizations */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #ff6b6b;
+    color: white;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
